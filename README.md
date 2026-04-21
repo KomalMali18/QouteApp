@@ -1,5 +1,5 @@
 Quote API App
-Simple full-stack project using Node.js + Express.
+Simple full-stack project using Node.js + Express
 
 Features
 REST API
